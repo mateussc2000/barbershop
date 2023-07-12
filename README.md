@@ -9,7 +9,7 @@ https://michalsnik.github.io/aos/
 
 # 🧰 Useful Material 
 Credits to devfraga and the classes below making this possible. 
-Class number 1:
+</br>Class number 1:
 https://www.youtube.com/watch?v=qeF7ZN5TegY&ab_channel=Sujeitoprogramador.</br>
 Class number 2:
 https://www.youtube.com/watch?v=qeF7ZN5TegY&ab_channel=Sujeitoprogramador.
