@@ -1,7 +1,7 @@
 # Barbershop
 In this project we create a landing page for a barber shop
 
-This project helped me understanding the benefit of https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg and how to use it in my future projects
+This project helped me understanding the benefit of <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/> and how to use it in my future projects
 
 To make such animations we used: 
 https://michalsnik.github.io/aos/
